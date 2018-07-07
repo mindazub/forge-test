@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Brace yourselves, my APP is comming soon...
+                    Brace yourselves, my APP is comming soon!..
                 </div>
 
 
